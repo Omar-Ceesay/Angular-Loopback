@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "recipe": 12
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "recipe": {
+      "1": "{\"name\":\"Taco\",\"description\":\"Mexican Food\",\"imagePath\":\"http://vilascounty.uwex.edu/files/2013/12/Recipes-Title.png\",\"id\":1}",
+      "2": "{\"name\":\"Pizza\",\"description\":\"American Food\",\"imagePath\":\"\",\"id\":2}"
+    }
+  }
+}
